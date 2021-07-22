@@ -3,7 +3,7 @@ Controlling 5 servo motors for the robotic arm to be in 90 degree, then controll
 
 
 # Task Requirements:
-- Design an electric circuit with 5 servo motors for the robot arm motors, Set the motors degree to 90.
+- Design an electric circuit with 5 servo motors for the robot arm, Set the motors degree to 90.
 - Control the motors using potentiometer.
 
 ## **Tools:**
