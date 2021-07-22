@@ -22,7 +22,7 @@ Controlling 5 servo motors for the robotic arm to be in 90 degree, then controll
 <img width="968" alt="Screen Shot 1442-12-12 at 4 09 01 AM" src="https://user-images.githubusercontent.com/86277104/126581523-9c752b2e-2496-48c4-a809-541e24d8b2a9.png">
 
 3. Programing the circuit using C++ to set the motors to 90 degree, by using the following code:
-`
+```
 // C++ code
 #include<Servo.h>
 Servo myServo1;// define variable constructor for the libirary for servo
@@ -61,6 +61,6 @@ void loop()
     delay(30);
   }
 }
-`
+```
 
 
