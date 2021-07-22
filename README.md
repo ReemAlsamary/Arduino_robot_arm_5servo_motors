@@ -62,7 +62,8 @@ void loop()
 }
 ```
 - **The Output:** 
-[Output video of  motors rotate 90degree copy.zip](https://github.com/ReemAlsamary/Arduino_robot_arm_5servo_motors/files/6865538/Output.video.of.motors.rotate.90degree.copy.zip)
+[Video of  motors set to rotate 90degree .zip](https://github.com/ReemAlsamary/Arduino_robot_arm_5servo_motors/files/6865540/Video.of.motors.set.to.rotate.90degree.zip)
+
 
 
 
