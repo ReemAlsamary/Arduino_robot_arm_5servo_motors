@@ -18,8 +18,7 @@ Controlling 5 servo motors for the robotic arm to be in 90 degree, then controll
 ### **Steps:**
 1. Creating an account at TINKERCAD, then creating a new Circuit.
 
-2. Connecting the Robot Arm motors circuit diagram using Tinkercad.
-
+2. Connecting the Robot Arm motors circuit diagram.
 <img width="968" alt="Screen Shot 1442-12-12 at 4 09 01 AM" src="https://user-images.githubusercontent.com/86277104/126581523-9c752b2e-2496-48c4-a809-541e24d8b2a9.png">
 
 3. Programing the circuit using C++ to set the motors to 90 degree, by using the following code:
