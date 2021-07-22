@@ -1,8 +1,8 @@
 # Arduino_robot_arm_5servo_motors
-Controlling 5 servo motors for the robotic arm to be in 90 degree, then controlling  them using potentiometer.
+Controlling 5 servo motors for the robotic arm to be in 90 degree.
+
 # Task Requirements:
 - Design an electric circuit with 5 servo motors for the robot arm motors, Set the motors degree to 90.
-- Control the motors using potentiometer.
 
 ## **Tools:**
 - Arduino Uno R3.
@@ -63,5 +63,9 @@ void loop()
 ```
 - **The Output:** 
 [Video of  motors set to rotate 90degree .zip](https://github.com/ReemAlsamary/Arduino_robot_arm_5servo_motors/files/6865540/Video.of.motors.set.to.rotate.90degree.zip)
+
+4. Controlling the servo motors using potentiometerUse, each one have three wires: terminal1 (connected to positive pin), wiper(they can be connected in any pin of the numbers that start with the letter A pin),terminal2 (connected to negative pin).
+NOTE: Micro Servoes go from 0 to 90 degrees but the potentiometer can go from 0 to 1023 so it only tak 1/11 of potentiometer to actually max out the servo and then the reset would be useless,to prevent that from happening we need a map function to changes 0-1023 to 0-90 .
+
 
 
