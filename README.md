@@ -7,11 +7,11 @@ Controlling 5 servo motors for the robotic arm to be in 90 degree, then controll
 - Control the motors using potentiometer.
 
 ## **Tools:**
-- Arduino Uno R3.
+- One Arduino Uno R3.
 - 5 Servo motors.
 - Breadboard.
 - Wires.
-- Potentiometer.
+- Potentiometers.
 
 --- 
 
