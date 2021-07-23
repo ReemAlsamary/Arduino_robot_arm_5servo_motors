@@ -74,7 +74,7 @@ void loop()
 
 4. Controlling the servo motors using potentiometers, each potentiometer have three wires: terminal1 (connected to positive pin), wiper(they can be connected in any pin of the numbers that start with the letter A pin),terminal2 (connected to negative pin).
 
----
+
 
 - Programing the circuit using C++, by the following code:
 
