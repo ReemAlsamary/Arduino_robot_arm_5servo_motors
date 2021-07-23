@@ -20,7 +20,9 @@ Controlling 5 servo motors for the robotic arm to be in 90 degree, then controll
 ---
 2. Connecting the Robot Arm motors circuit diagram.
 <img width="968" alt="Screen Shot 1442-12-12 at 4 09 01 AM" src="https://user-images.githubusercontent.com/86277104/126581523-9c752b2e-2496-48c4-a809-541e24d8b2a9.png">
+
 ---
+
 3. Programing the circuit using C++ to set the motors to 90 degree, by using the following code:
 ```
 // C++ code
@@ -62,6 +64,7 @@ void loop()
   }
 }
 ```
+
 ---
 
 **- The Output:** 
@@ -70,7 +73,9 @@ void loop()
 ---
 
 4. Controlling the servo motors using potentiometers, each potentiometer have three wires: terminal1 (connected to positive pin), wiper(they can be connected in any pin of the numbers that start with the letter A pin),terminal2 (connected to negative pin).
+
 ---
+
 - Programing the circuit using C++, by the following code:
 
 ```
@@ -124,11 +129,14 @@ void loop()
 
 
 ```
+
 ---
 
 **- The Output:**
 
 <img width="850" alt="Screen Shot 1442-12-13 at 2 43 24 AM" src="https://user-images.githubusercontent.com/86277104/126722659-3b0b3302-0519-4099-84c6-6da41f35c635.png">
+
 ---
+
 **-Output video:**
 [Controlling using Potentiometers.zip](https://github.com/ReemAlsamary/Arduino_robot_arm_5servo_motors/files/6865982/Controlling.using.Potentiometers.zip)
