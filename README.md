@@ -66,7 +66,7 @@ void loop()
 ```
 
 ---
-### **- The Output:** 
+### **The Output:** 
 [Video of  motors set to rotate 90degree .zip](https://github.com/ReemAlsamary/Arduino_robot_arm_5servo_motors/files/6865540/Video.of.motors.set.to.rotate.90degree.zip)
 
 
@@ -131,11 +131,11 @@ void loop()
 
 ---
 
-### **- The Output:**
+### **The Output:**
 
 <img width="850" alt="Screen Shot 1442-12-13 at 2 43 24 AM" src="https://user-images.githubusercontent.com/86277104/126722659-3b0b3302-0519-4099-84c6-6da41f35c635.png">
 
 ---
 
-### **-Output video:**
+### **Output video:**
 [Controlling using Potentiometers.zip](https://github.com/ReemAlsamary/Arduino_robot_arm_5servo_motors/files/6865982/Controlling.using.Potentiometers.zip)
