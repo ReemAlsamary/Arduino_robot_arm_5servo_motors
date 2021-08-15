@@ -6,7 +6,7 @@ Controlling 5 servo motors for the robotic arm to be in 90 degree, then controll
 - Design an electric circuit with 5 servo motors for the robot arm, Set the motors degree to 90.
 - Control the motors using potentiometer.
 
-## **Tools:**
+## **Circuit component:**
 - One Arduino Uno R3.
 - 5 Servo motors.
 - Breadboard.
